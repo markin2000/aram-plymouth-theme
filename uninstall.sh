@@ -1,6 +1,6 @@
 #!/bin/bash
 
-THEME='dark-mint'
+THEME='aram'
 
 if [ $EUID -ne 0 ]; then
 	echo ERROR: You must run this as root

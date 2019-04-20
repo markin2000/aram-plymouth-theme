@@ -6,6 +6,6 @@ if [ $EUID -ne 0 ]; then
 fi
 
 plymouthd
-plymouth --show-splash
+plymouth show-splash
 sleep ${1:-2}
 plymouth quit

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Aram
+Description=Aram theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/aram
+ScriptFile=/usr/share/plymouth/themes/aram/aram.script
