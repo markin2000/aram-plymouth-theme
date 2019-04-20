@@ -1,8 +1,8 @@
-## Dark Mint
+## Aram Plymouth Theme
 
-*Dark Mint* is a theme for Plymouth, the boot splash tool for Linux. It's designed with Linux Mint in mind, but can be used in any installation that uses Plymouth.
+*Aram Plymouth Theme* is a theme for Plymouth, the boot splash tool for Linux.
 
-[![Screenshot](https://jsayol.github.io/dark-mint-plymouth-theme/img/screenshot_small.png)](https://jsayol.github.io/dark-mint-plymouth-theme/img/screenshot.png)
+(missing screenshot)
 
 ## How to install the theme
 From the terminal, run the install script:
@@ -12,16 +12,16 @@ From the terminal, run the install script:
 ## How to uninstall the theme
 From the terminal, run this command:
 
-    sudo /usr/share/plymouth/themes/dark-mint/uninstall.sh
+    sudo /usr/share/plymouth/themes/aram/uninstall.sh
 
 ## How to preview the theme
 After installing, you can preview the theme without having to reboot. Just run this command from the terminal:
 
-    sudo /usr/share/plymouth/themes/dark-mint/preview.sh
+    sudo /usr/share/plymouth/themes/aram/preview.sh
 
 It runs for 2 seconds by default. You can optionally specify the number of seconds to run the preview:
 
-    sudo /usr/share/plymouth/themes/dark-mint/preview.sh 10
+    sudo /usr/share/plymouth/themes/aram/preview.sh 10
 
 #### Note: previewing the theme requires *plymouth-x11*. To install the package:
 
@@ -29,8 +29,6 @@ It runs for 2 seconds by default. You can optionally specify the number of secon
 
 
 ## License
-
-Copyright (C) 2015  Josep Sayol
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -44,3 +42,7 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+### Fork of
+https://github.com/jsayol/dark-mint-plymouth-theme
