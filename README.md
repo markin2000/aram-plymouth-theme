@@ -2,7 +2,7 @@
 
 *Aram Plymouth Theme* is a theme for Plymouth, the boot splash tool for Linux.
 
-(missing screenshot)
+[![Screenshot](https://github.com/markin2000/aram-plymouth-theme/blob/master/screenshot.png?raw=true)](https://github.com/markin2000/aram-plymouth-theme/blob/master/screenshot.png?raw=true)
 
 ## How to install the theme
 From the terminal, run the install script:
